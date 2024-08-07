@@ -60,7 +60,7 @@
 
 - 📧 Email: champion10875@gmail.com
 - 📻 Skype: 
-- 📠 Discord: 
+- 📠 Discord: champion_winner923
 
 ## 🏫Education🏫
 
