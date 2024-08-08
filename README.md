@@ -59,8 +59,8 @@
 ## 📞Contact Me📞
 
 - 📧 Email: champion10875@gmail.com
-- 📻 Skype: 
-- 📠 Discord: 
+- 📻 Skype: live:.cid.f33797c38a2ed8c0
+- 📠 Discord: champion_winner923
 
 ## 🏫Education🏫
 
