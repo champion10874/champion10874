@@ -36,6 +36,23 @@
 <p style="font-size: 20px;"> - 📻 Skype: live:.cid.f33797c38a2ed8c0</p>
 <p style="font-size: 20px;"> - 📠 Discord: champion_winner923</p>
 
+<table>
+    <tr>
+        <td>
+            <a href="champion10875@gmail.com">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/gmail.svg"
+                    height="48" width="48" alt="Email" />
+            </a>
+        </td>
+        <td>
+            <a href="https://join.skype.com/invite/kGvGA8DV4Voo">
+                <img src="https://github.com/gayanvoice/github-active-users-monitor/blob/master/public/images/icons/telegram.svg"
+                    height="48" width="48" alt="Telegram" />
+            </a>
+        </td>
+    </tr>
+</table>
+
 # 🏫Education🏫
 
 <p style="font-size: 20px;"> - Tsinghua University(Master's degree in Software Engineering)</p>
