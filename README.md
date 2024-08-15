@@ -43,5 +43,5 @@
 
 # 🌍Languages🌍
 
-<p style="font-size: 20px;"> - Chinese: Native</p>
+<p style="font-size: 20px;"> - German: Native</p>
 <p style="font-size: 20px;"> - English: Fluent</p>
