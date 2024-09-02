@@ -35,13 +35,13 @@
 <p style="font-size: 20px;"> - 📧 Email: champion10875@gmail.com</p>
 <p style="font-size: 20px;"> - 📻 Skype: live:.cid.f33797c38a2ed8c0</p>
 <p style="font-size: 20px;"> - 📹 Discord: champion_winner923</p>
-<p style="font-size: 20px;"> - 📠 Telegram: @AAYNY</p>
+<p style="font-size: 20px;"> - 📠 Telegram: @champion923</p>
 
-# 🏫Education🏫
+<!-- # 🏫Education🏫
 
 <p style="font-size: 20px;"> - Technical University of Munich(Master's degree in Software Engineering)</p>
 
 # 🌍Languages🌍
 
 <p style="font-size: 20px;"> - German: Native</p>
-<p style="font-size: 20px;"> - English: Fluent</p>
+<p style="font-size: 20px;"> - English: Fluent</p> -->
