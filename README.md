@@ -31,9 +31,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 </div>
 
-# 📞Contact Me📞
-
-<p style="font-size: 20px;"> - 📧 Email: champion10875@gmail.com</p>
-<p style="font-size: 20px;"> - 📻 Skype: live:.cid.f33797c38a2ed8c0</p>
-<p style="font-size: 20px;"> - 📹 Discord: champion_winner923</p>
-<p style="font-size: 20px;"> - 📠 Telegram: @AAYNY</p>
